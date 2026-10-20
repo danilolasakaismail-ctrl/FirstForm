@@ -8,6 +8,7 @@ import AboutPageLayout from "../Layout.tsx/AboutPageLayout";
 import AboutComp from "../page/AboutPage/AboutComp";
 import ShopPageLayout from "../Layout.tsx/ShopPageLayout";
 import ShopComp from "../page/Shop/ShopComp";
+// import CardProduct from "../page/HomePage/CardProduct";
 
 export const element = createBrowserRouter([
   {
